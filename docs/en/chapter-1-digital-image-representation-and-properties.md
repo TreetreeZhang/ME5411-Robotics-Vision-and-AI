@@ -5,10 +5,6 @@ exporter: pymupdf_markdown
 
 
 
-<!-- Page 1 / 62 -->
-
-Dr. NG Hsiao Piau
-Ng_h_p@nus.edu.sg
 
 
 <!-- Page 2 / 62 -->
